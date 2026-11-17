@@ -1,4 +1,4 @@
-# software
+# Software
 
 - `asm.py` - assembler (guide: `docs/assembler.md`), opcodes from `microcode/instructions.py`
 - `cpu_test.asm` - cpu test (for testing the cpu), runs instructions while counting up and stops with leds at 01011010

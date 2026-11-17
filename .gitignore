@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+
+# binaries / listings
+*.bin
+*.lst
+
+# keep microcode
+!microcode/mc*.bin
+
+# build output of later tools
+microcode/build/
+software/build/
